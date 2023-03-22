@@ -1,6 +1,8 @@
 
 # Mi Card
 
+![Screenshot_20230322_171050](https://user-images.githubusercontent.com/128228440/226887979-02121bcf-7d12-41de-a856-0eaaff5ff59c.jpg)
+
 ## Goal
 
 How to design user interfaces for Flutter apps.
